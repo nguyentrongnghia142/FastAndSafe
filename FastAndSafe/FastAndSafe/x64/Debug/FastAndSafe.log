@@ -1,0 +1,14 @@
+﻿  FastAndSafe.cpp
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(245): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(246): warning C4305: '-=': truncation from 'double' to 'float'
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(303): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(25): warning C4101: 'chon': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(38): warning C4101: 'c': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(38): warning C4101: 'l': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(38): warning C4101: 'd': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(300): warning C4101: 'c': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(300): warning C4101: 'l': unreferenced local variable
+f:\hk2\fastandsafe\fastandsafe\fastandsafe.cpp(300): warning C4101: 'd': unreferenced local variable
+  FastAndSafe.vcxproj -> F:\HK2\FastAndSafe\x64\Debug\FastAndSafe.exe
+  FastAndSafe.vcxproj -> F:\HK2\FastAndSafe\x64\Debug\FastAndSafe.pdb (Partial PDB)
